@@ -14,3 +14,4 @@ A simple self taught programmer who loves to creates stuff, where the limit is m
 
 ### **Fun fact!**
 - I use GitHub's file editor to write my code and README for entertainment purposes :>
+- Doing LeetCode challenges is my pass time.
