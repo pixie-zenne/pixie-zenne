@@ -15,5 +15,6 @@ Have a look around to these repositories:
 ---
 
 ### **Fun fact!**
+- I sometimes use AI to either teach me or help me with programming. Do note that I do not vibe-code, I simply use AI as a tool, not an asset to depend or rely on.
 - I use GitHub's file editor to write my code and README for entertainment purposes :>
 - Doing LeetCode challenges is my pass time.
