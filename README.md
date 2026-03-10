@@ -22,6 +22,6 @@ Have a look around these repositories.
 
 ### **Fun fact!**
 Some stuff about me.
-- I sometimes use AI to either teach me or help me with programming. Do note that I do not vibe-code, I simply use AI as a tool, not an asset to depend or rely on.
+- I sometimes use Generative Language Models to either teach me or help me with programming. Do note that I do not vibe-code, I simply use it as a tool, not an asset to depend or rely on.
 - I use GitHub's file editor to write my code and README for entertainment purposes :>
 - Admiring and understanding LeetCode solutions is my pass time.
