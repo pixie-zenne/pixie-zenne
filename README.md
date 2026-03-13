@@ -1,4 +1,4 @@
-## **Hi hi!**
+## **Hi hi hi!**
 
 I am Pixie Zenne! You can call me either Pixie or Zenne or both!
 
