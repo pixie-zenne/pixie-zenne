@@ -6,7 +6,7 @@ A simple self taught programmer who loves to creates stuff, where the limit is m
 
 ---
 
-### **My work flow**
+### **Repository branches**
 Every repository that I have will be divided into three branches. Do note that I use double spaces for tabs in my repositories to fit long lines of code in my small monitor.
 - Bleeding-Edge :: Where new lines of codes are introduced and where contributions are allowed.
 - Reviewing-Sector :: Where the code from the "Bleeding-Edge" gets reviewed.
